@@ -6,3 +6,4 @@ Adding 4rd shell
 8. added
 8. remove directory 
 10. change to previous  dir
+11. listing dir contects
