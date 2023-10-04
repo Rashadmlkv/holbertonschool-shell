@@ -5,3 +5,4 @@ Adding 4rd shell
 7.Moving files
 8. added
 8. remove directory 
+10. change to previous  dir
