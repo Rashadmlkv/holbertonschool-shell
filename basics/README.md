@@ -2,3 +2,4 @@
 1.print the contents of current working directoryListin long format
 Adding 4rd shell
 5. Listing numeric id/group
+7.Moving files
