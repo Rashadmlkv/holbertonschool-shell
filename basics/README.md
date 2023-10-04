@@ -4,3 +4,4 @@ Adding 4rd shell
 5. Listing numeric id/group
 7.Moving files
 8. added
+8. remove directory 
