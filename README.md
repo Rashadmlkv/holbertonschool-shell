@@ -1,1 +1,1 @@
-Repo README
+This is a repo for practicing shell scripts
