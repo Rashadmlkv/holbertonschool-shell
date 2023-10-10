@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -depth -type d | wc --lines
+find !./ -depth -type d | wc --lines
