@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -type d >> dcounter.txt | wc --lines dcounter.txt
+find ./ -depth -type d | wc --lines
