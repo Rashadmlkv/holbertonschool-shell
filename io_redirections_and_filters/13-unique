@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt > list | uniq list | sort
+uniq < fmt > list | sort
