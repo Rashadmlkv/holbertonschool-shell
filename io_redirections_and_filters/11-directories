@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -c ./*
+find ./ -type d >> dcounter.txt | wc --lines
