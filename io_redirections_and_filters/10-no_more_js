@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -name "index.html" -type f -delete
+find -*.js-./ -type f -delete
