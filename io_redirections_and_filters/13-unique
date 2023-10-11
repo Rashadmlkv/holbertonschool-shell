@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt >> list | uniq >> ulist | sort >> slist | cat slist
+cat list | uniq | sort | fmt
