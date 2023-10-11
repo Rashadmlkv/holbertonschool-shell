@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH > list | cat list | tr / "\n" > list | sort -u list
+export PATH+=:/action
